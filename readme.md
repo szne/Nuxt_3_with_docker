@@ -1,6 +1,6 @@
 # Nuxt-3-with-docker
 
-Docker-composeでnuxt.js 2.xの開発環境を構築する物です。
+Docker-composeでnuxt 3の開発環境を構築する物です。
 
 ## Requirements
 
@@ -14,7 +14,7 @@ GitHubからクローンしてコンテナを立ち上げる
 
 ```cmd
 git clone https://github.com/szne/Nuxt-3-with-docker.git
-ren nuxt-2-with-docker your-project-name
+ren nuxt_3_with_docker your-project-name
 cd your-project-name
 docker compose up -d
 ```
